@@ -1,0 +1,50 @@
+# Visual Studio local state
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+ipch/
+
+# Build directories (at any depth)
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+Win32/
+ARM/
+ARM64/
+
+# Driver binaries, symbols, and intermediate outputs
+*.sys
+*.pdb
+*.obj
+*.lib
+*.exp
+*.ilk
+*.idb
+*.pch
+*.tlog
+*.log
+*.recipe
+*.lastbuildstate
+*.cat
+*.dmp
+*.etl
+
+# Certificates, signing keys, and local credentials
+*.cer
+*.pfx
+*.p12
+*.pem
+*.key
+.env
+.env.*
+
+# Local backup files
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
